@@ -1,0 +1,12 @@
+{% extends 'partials/base.html.twig' %}
+{% block content %}
+{% set latestPost = page.find('/blog').children.order('date', 'dsc')|first %}
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ page.content }}
+  {% if latestPost %}
+  <h2>Latest Post</h2>
+  {% include 'partials/blog/summary-item.html.twig' with {post: latestPost} %}
+  {% endif %}
+</div>
+{% endblock %}

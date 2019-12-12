@@ -1,0 +1,41 @@
+.posts .post-summary{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.posts .post-summary > *{
+	margin: 5px;
+}
+
+.centered{
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+}
+
+.image-header{
+	width:100%;
+	margin-bottom:25px;
+}
+
+.image-header img{
+	margin: 0 auto;
+}
+
+.image-header .image-caption{
+	text-align: center;
+	font-size: 15px;
+	font-style: italic;
+	color: #B3B3B3;
+}
+
+.mt-10{
+	margin-top: 10px;
+}
+.mt-25{
+	margin-top: 25px;
+}
+.mt-50{
+	margin-top: 50px;
+}

@@ -1,0 +1,13 @@
+{% extends 'partials/base.html.twig' %}
+{% block content %}
+{% set tag  = uri.query('tag') %}
+<div class="page blog-listing">
+  <h1 class="page-title">Posts: {{ tag }}</h1>
+  {{ page.content }}
+  <div class="posts">
+  	{% for post in page.collection({'items' : {'@taxonomy' : {'tag' : tag}}, 'order': {'by': 'date', 'dir': 'desc'}}) %}
+      {% include 'partials/blog/summary-item.html.twig' with {post: post} %}
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}

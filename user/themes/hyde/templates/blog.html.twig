@@ -1,0 +1,13 @@
+{% extends 'partials/base.html.twig' %}
+{% block content %}
+<div class="page blog-listing">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ page.content }}
+  <div class="posts">
+  	{% for post in page.collection %}
+      {% include 'partials/blog/summary-item.html.twig' with {post: post} %}
+      <hr/>
+  	{% endfor %}
+  </div>
+</div>
+{% endblock %}

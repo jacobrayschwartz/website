@@ -1,0 +1,21 @@
+{% set image = post.media.images|first %}
+<div class="post-summary">
+  {% if image %}
+  <div class="post-image">
+    <a href="{{ post.url }}">{{ image.cropZoom(500,500).html()|raw }}</a>
+  </div>
+  {% endif %}
+  <div class="summary-content">
+    <h3> {{ post.title }}</h3>
+    {% if post.taxonomy.tag %}
+      <section><strong>Tags:</strong> 
+        {{post.taxonomy.tag|map((tag) => "<a href='/blog-search?tag=#{tag}'>#{tag}</a>")|join(', ')}}</section>
+    {% endif %}
+    <time class="dt-published" datetime="{{ page.date|date("c") }}">
+        <i class="fa fa-calendar"></i> {{ page.date|date(system.pages.dateformat.short) }}
+    </time>
+    <p>{{ post.summary }}<a href="{{post.url}}">Read More</a></p>
+  </div>
+  
+  <hr/>
+</div>
