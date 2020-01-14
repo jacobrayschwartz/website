@@ -14,6 +14,6 @@ I'll be writing about, well, a lot of things. Programming, church, worship, cook
 
 <hr/>
 
-![Picture of me](/images/self-picture.jpg?classes=centered%20mt-25&cropResize=300,300)
+![Picture of me](/images/self-picture.jpg?classes=centered%20mt-25&cropResize=200,200)
 
 <hr/>

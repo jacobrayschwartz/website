@@ -5,8 +5,11 @@
   <h1 class="page-title">{{ page.title }}</h1>
   {{ page.content }}
   {% if latestPost %}
-  <h2>Latest Post</h2>
-  {% include 'partials/blog/summary-item.html.twig' with {post: latestPost} %}
+  <h2 class="centered-text">Latest Post</h2>
+  <small class="centered centered-text"><a href="/blog">Find more posts in the blog</a></small>
+  <div class="posts">
+  	{% include 'partials/blog/summary-item.html.twig' with {post: latestPost} %}
+  </div>
   {% endif %}
 </div>
 {% endblock %}
