@@ -1,19 +1,19 @@
-title: J. Schwartz                          # Name of the site
+title: Grav                                 # Name of the site
 default_lang: en                            # Default language for site (potentially used by theme)
 
 author:
-  name: Jacob Schwartz                      # Default author name
-  email: 'jacob.ray.schwartz@gmail.com'     # Default author email
+  name: John Appleseed                      # Default author name
+  email: 'john@example.com'                 # Default author email
 
 taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
 
 metadata:
-  description: 'Jacob Schwartz'             # Site description
+  description: 'My Grav Site'               # Site description
 
 summary:
   enabled: true                             # enable or disable summary of page
   format: short                             # long = summary delimiter will be ignored; short = use the first occurrence of delimiter or size
-  size: 150                                 # Maximum length of summary (characters)
+  size: 300                                 # Maximum length of summary (characters)
   delimiter: ===                            # The summary delimiter
 
 redirects:

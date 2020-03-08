@@ -10,10 +10,10 @@
   <hr/>
   {% if image %}
   <div class="image-header">
-      <a href="{{ page.url }}">{{ image.cropZoom(600,400).html()|raw }}</a>
-      {% if image.caption %}
-      <div class="image-caption">{{image.caption}}</div>
-      {% endif %}
+      <a href="{{ page.url }}">{{ image.resize(600,400).html()|raw }}</a>
+      <!-- {% if image.caption %}
+        test:{{ image.caption }}
+      {% endif %} -->
   </div>
   <hr/>
   {% endif %}

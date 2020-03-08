@@ -12,8 +12,8 @@ pwd_regex: '(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}' # At least one number, one uppe
 intl_enabled: true                               # Special logic for PHP International Extension (mod_intl)
 
 languages:
-  supported: ['en']                                  # List of languages supported. eg: [en, fr, de]
-  default_lang:   'en'                               # Default is the first supported language. Must be one of the supported languages
+  supported: []                                  # List of languages supported. eg: [en, fr, de]
+  default_lang:                                  # Default is the first supported language. Must be one of the supported languages
   include_default_lang: true                     # Include the default lang prefix in all URLs
   pages_fallback_only: false                     # Only fallback to find page content through supported languages
   translations: true                             # Enable translations by default
@@ -27,7 +27,7 @@ home:
   hide_in_urls: false                            # Hide the home route in URLs
 
 pages:
-  theme: hyde                                   # Default theme (defaults to "quark" theme)
+  theme: quark                                   # Default theme (defaults to "quark" theme)
   order:
     by: default                                  # Order pages by "default", "alpha" or "date"
     dir: asc                                     # Default ordering direction, "asc" or "desc"
