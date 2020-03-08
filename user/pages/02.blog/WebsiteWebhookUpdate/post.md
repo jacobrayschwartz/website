@@ -306,4 +306,4 @@ You can now test this by pushing to your repository, you should see a success me
 ![Status from Github showing a webhook was succesfully sent](WebhookSuccess.png)
 
 ## Conclusion
-And that's it!! Well, for now. There's more to come, you'll want to set up a service to run the application in the background, use https to listen for the webhook and more. But that will come in the next post. 
+And that's it! Well, for now. There's more to come, you'll want to set up a service to run the application in the background, use https to listen for the webhook and more. But that will come in the next post. 
