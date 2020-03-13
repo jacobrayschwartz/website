@@ -3,6 +3,7 @@ title: Using Git to Keep Your Website up to Date
 taxonomy:
 	tag: [Programming, Git, Websites, Webhooks, Node, Restify, Linux]
 media_order: _webhooksTitle.png
+date: 03/06/2020
 ---
 
 I'm not a website developer by trade, though I can do some of the work. Honestly, for years, I felt like I needed to build my own CMS from scratch or I wasn't a good enough developer. But I'm also a developer that has a tendancy to redo his work over and over again unless I have a deadline. 

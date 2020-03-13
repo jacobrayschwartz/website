@@ -3,6 +3,7 @@ title: Lasik
 taxonomy:
 	tag: [Life, Surgery]
 media_order: eye.jpg
+date: 11/23/2019
 ---
 
 So I had Lasik yesterday.
