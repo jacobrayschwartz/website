@@ -11,8 +11,8 @@
       <section><strong>Tags:</strong> 
         {{post.taxonomy.tag|map((tag) => "<a href='/blog-search?tag=#{tag}'>#{tag}</a>")|join(', ')}}</section>
     {% endif %}
-    <time class="dt-published" datetime="{{ page.date|date("c") }}">
-        <i class="fa fa-calendar"></i> {{ page.date|date(system.pages.dateformat.short) }}
+    <time class="dt-published" datetime="{{ post.date|date("c") }}">
+        <i class="fa fa-calendar"></i> {{ post.date|date(system.pages.dateformat.short) }}
     </time>
     <p>{{ post.summary }}<a href="{{post.url}}">Read More</a></p>
   </div>
