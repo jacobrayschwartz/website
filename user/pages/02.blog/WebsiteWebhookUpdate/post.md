@@ -302,9 +302,59 @@ Start the server using the command:
 > node server.js
 ```
 
+#### A Note About Permissions
+There's a good chance that your website's directory is owned by another user, likely called `www-data`. So if you try to run invoke your script from github, you'll get some sort of access denied error when the script attempts to run `git pull`.
+
+To solve this, you'll need to start the script as the user who owns that directory. For example:
+
+```bash
+> sudo -H -u www-data bash -c 'node server.js'
+```
+
+> **Command Definition**
+>
+> The command above uses `sudo` to run a command as the `www-data` using bash as the shell.
+>
+
+It's also possible that your `www-data` won't have permission to access the directory your script lives in. If you haven't done so, move your script to somewhere `www-data` can access, such as a new subdirectory under the `/var` folder. For example: `/var/webhooks/`. Then make sure the `www-data` user owns that directory using the command:
+
+```bash
+> sudo chown -R www-data:www-data /var/webhooks/
+```
+
 You can now test this by pushing to your repository, you should see a success message at the bottom of the webhooks settings page on your repository like so:
 
 ![Status from Github showing a webhook was succesfully sent](WebhookSuccess.png)
 
+## Run the Webhook Listener As a Service
+The last thing we'll do for now, is set our application to run as a service within Linux. This way, you won't need to have a shell running to have the script listening. It will get started with the operating system.
+
+First, install **pm2** from node, globally. This tool will allow you to set up a node js script as a service. 
+
+```bash
+> sudo node install -g pm2
+```
+
+Now, start **server.js** using **pm2**, remember to use `sudo` to run the command as the appropriate user. Here, we'll assume the directory owner is www-data, and that the script is under the directory `/var/webhooks/`.
+
+```bash
+> sudo -H -u www-data -c 'pm2 start /var/webhooks/index'
+> sudo -H -u www-data -c 'pm2 save'
+```
+
+Finally, tell **pm2** to set up the script as a linux service. Assuming you're using a kernal that has systemd installed, you can run the following command. If not, there are other options, you can find them [here](https://pm2.keymetrics.io/docs/usage/startup).
+
+```bash
+> sudo -H -u www-data bash -c 'pm2 startup systemd'
+```
+
+That command will output one more command for you to run, it should look something like this:
+
+```bash
+> sudo env PATH=$PATH:/usr/bin /usr/local/lib/node_modules/pm2/bin/pm2 startup systemd -u www-data --hp /var/www
+```
+
+**Make sure** to run the command your script invokes. The example above is not guarenteed to match everyone's system. 
+
 ## Conclusion
-And that's it! Well, for now. There's more to come, you'll want to set up a service to run the application in the background, use https to listen for the webhook and more. But that will come in the next post. 
+And that's it! Well, for now. There's more to come, you'll want to  use https to listen for the webhook and more. But that will come in the next post. 

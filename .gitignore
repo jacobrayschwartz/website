@@ -7,6 +7,12 @@ logs/*
 images/*
 user/data/*
 
+#Overrides for gitkeep so grav doesn't freak out
+!assets/.gitkeep
+!logs/.gitkeep
+!images/.gitkeep
+!user/data/.gitkeep
+
 # OS Generated
 .DS_Store*
 ehthumbs.db
