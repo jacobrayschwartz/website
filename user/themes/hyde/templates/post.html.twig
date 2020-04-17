@@ -11,9 +11,11 @@
   {% if image %}
   <div class="image-header">
       <a href="{{ page.url }}">{{ image.resize(600,400).html()|raw }}</a>
-      <!-- {% if image.caption %}
-        test:{{ image.caption }}
-      {% endif %} -->
+      {% if image.caption %}
+      <div class="image-caption">
+        {{ image.caption }}
+      </div> 
+      {% endif %}
   </div>
   <hr/>
   {% endif %}
