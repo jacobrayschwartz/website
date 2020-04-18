@@ -21,7 +21,9 @@ What, then, should we be concerned with? Simple, our mission is unchanged from t
 >
 > **Matthew 28:19**
 
-How do we do that in this modern world, which seems to have no care of its need of Christ the Savior?
+How do we do that in this modern world, which seems to have no care of its need of Christ the Savior? Luckily, there are examples from the Bible, which we can apply to our current predicament. 
+
+You see, Israel was no stranger to being surounded by peoples who not only didn't have faith in God, but who were actively against such an idea. Israel was sieged, many of her people killed and then tose still alive were carried off away from their Promised Land. 
 
 
 
