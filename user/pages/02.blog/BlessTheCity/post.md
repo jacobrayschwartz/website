@@ -19,12 +19,17 @@ What, then, should we be concerned with? Simple, our mission is unchanged from t
 
 > Therefore, go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit.
 >
-> **Matthew 28:19**
+> *Matthew 28:19*
 
 How do we do that in this modern world, which seems to have no care of its need of Christ the Savior? Luckily, there are examples from the Bible, which we can apply to our current predicament. 
 
-You see, Israel was no stranger to being surounded by peoples who not only didn't have faith in God, but who were actively against such an idea. Israel was sieged, many of her people killed and then tose still alive were carried off away from their Promised Land. 
+You see, Israel was no stranger to being surounded by peoples who not only didn't have faith in God, but who were actively against such an idea. Israel was sieged, many of her people killed and then those still alive were carried off away from their Promised Land. The people of this new nation, who practiced the Ancient Mesopotamian religion, served gods and ideals that were wholy against our God. 
 
+It is here where we find an important command. The prophet Jeremiah wrote to those who had been exiled to Babylon:
+
+> This is what the Lord of Heaven’s Armies, the God of Israel, says to all the captives he has exiled to Babylon from Jerusalem: “Build homes, and plan to stay. Plant gardens, and eat the food they produce. Marry and have children. Then find spouses for them so that you may have many grandchildren. Multiply! Do not dwindle away! **And work for the peace and prosperity of the city where I sent you into exile. Pray to the Lord for it, for its welfare will determine your welfare.**”
+> 
+> *Jeremiah 29:4-7* - Emphasis added
 
 
 

@@ -1,3 +1,7 @@
+.post-summary .post-image{
+	width:200px;
+}
+
 .posts .post-summary{
 	display: flex;
 	justify-content: space-around;

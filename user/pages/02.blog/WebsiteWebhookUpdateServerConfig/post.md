@@ -3,6 +3,7 @@ title: Webhooks Continued, Server Configuration And You
 taxonomy:
 	tag: [Git, Websites, Webhooks, Linux, Nginx, LetsEncrypt]
 media_order: red_and_white_plastic_toy-scopio-bea1e50d-ed7a-4295-9ca8-ed96298b80bf.jpg
+date: 3/30/2020
 ---
 
 Continued from [Using Git to Keep Your Website up to Date](/blog/websitewebhookupdate)
