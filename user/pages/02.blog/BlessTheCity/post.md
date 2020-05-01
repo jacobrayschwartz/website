@@ -2,7 +2,7 @@
 title: Bless the City
 taxonomy:
 	tag: [Life, Theology, Christianity, Ministry]
-media_order: eye.jpg
+media_order: yichao-zhong-W1BuVIRqONM-unsplash.jpg
 date: 4/30/2020
 ---
 
@@ -59,6 +59,16 @@ Let me end the section with a poiniant quote from Christ:
 
 ## Today's World
 
+So, how are we to apply this to today’s Post-Christian world? 
+
+Christ’s bride has become very concerned about what other people outside the church are doing and thinking. It seems that Christians have begun caring about others knowing that we’re right instead of actually reaching out. Tell me, how do you think that post on Facebook or Instagram about how dumb, awful or evil those liberals are, is really going to point them towards Christ? Friends, it is time to bury our egos. Our mission as Christ-Followers is not to make sure others know that we are right, it is to point them towards the Savior. Or have you forgotten that our war is not against people, **we have a bigger enemy than that**[9].
+
+## This Present Crisis
+
+Look at the present crisis. We are living in a new world, Covid-19 has swept the world. Whether you believe it’s as bad as the media says or not, people are hurting. Many have lost work, income. Some people, those with compromised immune systems can’t easily go out or may not be able to leave their homes. All around us, people are in need of supplies, of comfort, and most of all, they are in need of hope.
+
+So what is the church going to do? 
+
 
 ## Further Reading:
 [1] Deism: Belief in a Perfect God Who Does Not Intervene: https://www.learnreligions.com/deism-95703
@@ -76,3 +86,5 @@ Let me end the section with a poiniant quote from Christ:
 [7] Romans 13:1-7
 
 [8] 1 Timothy 2:1-3
+
+[9] Ephesians 6:12
