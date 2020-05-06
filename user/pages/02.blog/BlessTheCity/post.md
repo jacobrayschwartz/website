@@ -8,7 +8,7 @@ date: 5/5/2020
 
 Often times, I hear Christians worry or complain that we live in a post-Christian world. What people usually mean by this, is that for a time, the world (and in most cases, the "world" they refer to is the United States) was largely full of people who would call themselves Christians, but now that time has passed. The world is now full of people who do not know Christ, and seem to be very happy with that new status quo. 
 
-There are many who dispute that we are in a Post-Christian America, arguing ut wasn't a Christian nation to begin with[1][2][3]. But that's not why I'm writing today.
+There are many who dispute that we are in a Post-Christian America, arguing ut wasn't a Christian nation to begin with[[1]](#f1)[[2]](#f2)[[3]](#f3). But that's not why I'm writing today.
 
 My main issue with the complaint, and the point of this article, is not to make a case on whether or not we were a Christian nation. In fact, I think we must look beyond this. That is, **it does not matter if we were once a Christian nation or world**. Ideas and conjecture on this point are interesting, well and good. But arguments on the point serve little more than to gain the feeling that one is "right" and keeps us stuck in the past. This is deeply distressing as it causes the focus of sharing the Gospel to shift from the world's need of the Savior to my own ego. So, *stop it*. You'll get nowhere, you will not win anyone over with your arguments. It is time to ask the question: "Do I want to show the world who Christ is and our need of Him, or do I want to show the world that I am right?" Motive is everything. 
 
@@ -34,19 +34,19 @@ So, God commanded the exiles to put down roots, to multiply even, to **bless the
 
 ## Under Roman Rule, Examples Set By Christ And the Early Church
 
-Let us take this to the New Testament. In the time when Christ walked among us and for years after, Israel was under Roman rule. Once again, the Hebrews were subjugated. These Romans had conquered Jerusalem in 63 BC. Again, Israel lived under the reign of heathens, worshiping a pantheon of idols. Herod the Great presided as a king over Judea, and at the time of Jesus' birth, ordered the slaughter of all the boys, two years old and under in Bethlehem [4][5].
+Let us take this to the New Testament. In the time when Christ walked among us and for years after, Israel was under Roman rule. Once again, the Hebrews were subjugated. These Romans had conquered Jerusalem in 63 BC. Again, Israel lived under the reign of heathens, worshiping a pantheon of idols. Herod the Great presided as a king over Judea, and at the time of Jesus' birth, ordered the slaughter of all the boys, two years old and under in Bethlehem [[4]](#f4)[[5]](#f5).
 
 But what do we see of Christ's earthly life in this time? Did He rise up and take back the land from these heathens? Did He organize some political majority to make Judea great again? Did He form an armed militia to take power from the government and give it back to the people?
 
 For the record, no, He did not. And neither did the early church. 
 
-The entire New Testament took place while the Romans were in power. And yet Christ rarely made any statements concerning these rulers. When he did, it was hardly what the people at the time would have expected. In fact, in a time where Rome was exacting heavy taxes on the people, along with tax collectors gathering their cut, He told the people to pay their taxes[6]. When Jesus was set before Pilate, by the religious leaders of the day, we again see what would have been a peculiar response:
+The entire New Testament took place while the Romans were in power. And yet Christ rarely made any statements concerning these rulers. When he did, it was hardly what the people at the time would have expected. In fact, in a time where Rome was exacting heavy taxes on the people, along with tax collectors gathering their cut, He told the people to pay their taxes[[6]](#f6). When Jesus was set before Pilate, by the religious leaders of the day, we again see what would have been a peculiar response:
 
 > So Pilate said to him, “You will not speak to me? Do you not know that I have authority to release you and authority to crucify you?” Jesus answered him, “**You would have no authority over me at all unless it had been given you from above. Therefore he who delivered me over to you has the greater sin.**” 
 >
 > John 19:10-11 - Emphasis Added
 
-What's more, in Paul's letters, we see again that we are to even submit to these authorities[7] and to pray for them[8]. When was the last time we prayed for our leaders, when we felt like they were against us? And no, imprecatory prayers do not count.
+What's more, in Paul's letters, we see again that we are to even submit to these authorities[[7]](#f7) and to pray for them[[8]](#f8). When was the last time we prayed for our leaders, when we felt like they were against us? And no, imprecatory prayers do not count.
 
 But I don't want this to become a post about the role of Christians in politics. That's for another article.
 
@@ -62,7 +62,7 @@ So, how are we to apply this to today’s Post-Christian world?
 
 The church has become very concerned about what other people outside are doing and thinking about it. It seems that Christians have begun caring about others knowing that we’re right instead of actually reaching out. Tell me, how do you think that post on Facebook or Instagram about how dumb, awful or evil those liberals are, is really going to point them towards Christ? And this is not one sided, our liberal brothers and sisters are no less prone to attacking the other side of the aisle as being stupid, uncaring and generally terrible. 
 
-But all of these arguments, made so often in the name of Christ, are a farce. They only serve to build ourselves up and are nothing more than boasting. Friends, it is time to bury our egos. Our mission as Christ-Followers is not to make sure others know that we are right, it is to point them towards the Savior. Or have you forgotten that our war is not against people, **we have a bigger enemy than that**[9].
+But all of these arguments, made so often in the name of Christ, are a farce. They only serve to build ourselves up and are nothing more than boasting. Friends, it is time to bury our egos. Our mission as Christ-Followers is not to make sure others know that we are right, it is to point them towards the Savior. Or have you forgotten that our war is not against people, **we have a bigger enemy than that**[[9]](#f9).
 
 Then, what are we to do?
 
@@ -79,7 +79,7 @@ Stop infighting and stop cutting out members of the Body just because they aren'
 >
 > Luke 6:27-28
 
-Once we've gotten love for our brothers and sisters down, Christ gives us a command and challenge to take it one (big) step further. We are to love those who are against us, who hurt us. The next time you want to post something about how all Democrats are baby-murdering heathens who are just out to make your kids believe in evolution, really think about who that post is going to benefit. Is it really going to point towards Christ? The next time you get on your megaphone to shout at some Republican rally about how they're all backwards, soulless hypocrites that only care about making the rich richer, take a second to ask, am I really trying to point them to Christ? If you only love those who love you back, you're no better than the Godless heathens[10].
+Once we've gotten love for our brothers and sisters down, Christ gives us a command and challenge to take it one (big) step further. We are to love those who are against us, who hurt us. The next time you want to post something about how all Democrats are baby-murdering heathens who are just out to make your kids believe in evolution, really think about who that post is going to benefit. Is it really going to point towards Christ? The next time you get on your megaphone to shout at some Republican rally about how they're all backwards, soulless hypocrites that only care about making the rich richer, take a second to ask, am I really trying to point them to Christ? If you only love those who love you back, you're no better than the Godless heathens[[10]](#f10).
 
 Instead, make room for civil discussion. For how much I greatly dislike politics, it is necessary to be aware of and even participate in. But I pray that Christ's Bride remembers who her true love is and does not mistake the power of politics as the true goal. 
 
@@ -118,24 +118,24 @@ Let us bless the city.
 
 
 ## Further Reading:
-[1] Deism: Belief in a Perfect God Who Does Not Intervene: https://www.learnreligions.com/deism-95703
+<a id="f1" href="#f1">[1]</a> Deism: Belief in a Perfect God Who Does Not Intervene: <https://www.learnreligions.com/deism-95703>
 
-[2] The Founding Fathers, Deism, and Christianity: https://www.britannica.com/topic/The-Founding-Fathers-Deism-and-Christianity-1272214
+<a id="f2" href="#f2">[2]</a> The Founding Fathers, Deism, and Christianity: <https://www.britannica.com/topic/The-Founding-Fathers-Deism-and-Christianity-1272214>
 
-[3] Founding Fathers: We Are Not a Christian Nation: https://www.huffpost.com/entry/founding-fathers-we-are-n_b_6761840
+<a id="f3" href="#f3">[3]</a> Founding Fathers: We Are Not a Christian Nation: <https://www.huffpost.com/entry/founding-fathers-we-are-n_b_6761840>
 
-[4] Jews and the Roman Empire: https://www.pbs.org/wgbh/pages/frontline/shows/religion/portrait/jews.html
+<a id="f4" href="#f4">[4]</a> Jews and the Roman Empire: <https://www.pbs.org/wgbh/pages/frontline/shows/religion/portrait/jews.html>
 
-[5] Matthew 2:16
+<a id="f5" href="#f5">[5]</a> Matthew 2:16
 
-[6] Matthew 22:17-21
+<a id="f6" href="#f6">[6]</a> Matthew 22:17-21
 
-[7] Romans 13:1-7
+<a id="f7" href="#f7">[7]</a> Romans 13:1-7
 
-[8] 1 Timothy 2:1-3
+<a id="f8" href="#f8">[8]</a> 1 Timothy 2:1-3
 
-[9] Ephesians 6:12
+<a id="f9" href="#f9">[9]</a> Ephesians 6:12
 
-[10] Luke 6:35-36
+<a id="f10" href="#f10">[10]</a> Luke 6:35-36
 
-[11] Ephesians 2:10
+<a id="f11" href="#f11">[11]</a> Ephesians 2:10

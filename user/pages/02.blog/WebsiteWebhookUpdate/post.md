@@ -338,8 +338,8 @@ First, install **pm2** from node, globally. This tool will allow you to set up a
 Now, start **server.js** using **pm2**, remember to use `sudo` to run the command as the appropriate user. Here, we'll assume the directory owner is www-data, and that the script is under the directory `/var/webhooks/`.
 
 ```bash
-> sudo -H -u www-data -c 'pm2 start /var/webhooks/index'
-> sudo -H -u www-data -c 'pm2 save'
+> sudo -H -u www-data bash -c 'pm2 start /var/webhooks/index'
+> sudo -H -u www-data bash -c 'pm2 save'
 ```
 
 Finally, tell **pm2** to set up the script as a linux service. Assuming you're using a kernal that has systemd installed, you can run the following command. If not, there are other options, you can find them [here](https://pm2.keymetrics.io/docs/usage/startup).
