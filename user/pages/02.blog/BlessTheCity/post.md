@@ -58,7 +58,7 @@ Let me end the section with a poignant quote from Christ:
 
 ## Today's World
 
-So, how are we to apply this to today’s Post-Christian world? 
+So, how are we to apply this to today’s Post- (or just Non-) Christian world? 
 
 The church has become very concerned about what other people outside are doing and thinking about it. It seems that Christians have begun caring about others knowing that we’re right instead of actually reaching out. Tell me, how do you think that post on Facebook or Instagram about how dumb, awful or evil those liberals are, is really going to point them towards Christ? And this is not one sided, our liberal brothers and sisters are no less prone to attacking the other side of the aisle as being stupid, uncaring and generally terrible. 
 
