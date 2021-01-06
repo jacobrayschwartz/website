@@ -8,9 +8,7 @@ content:
 
 ## Hello there!
 
-I'm Jacob, and it's about time I got this website up and going. 
-
-I'll be writing about a lot of things. Programming, church, worship, cooking and who knows what else. 
+I'm Jacob, I work for Thermo Fisher Scientific as a Software Engineer. This is my personal space to write about programming, church, worship, cooking and who knows what else. 
 
 <hr/>
 
