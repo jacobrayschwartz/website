@@ -1,5 +1,11 @@
-.post-summary .post-image{
-	width:200px;
+.posts .post-summary .post-image{
+	min-width:200px;
+	max-width:200px;
+	margin-right:100px;
+}
+
+.post-summary .summary-content{
+	flex-grow: 1;
 }
 
 .posts .post-summary{
@@ -11,6 +17,7 @@
 .posts .post-summary > *{
 	margin: 5px;
 }
+
 
 .centered{
 	margin-left: auto;
