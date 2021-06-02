@@ -20,7 +20,7 @@ But today, my heart is troubled. Many people may have seen something to the effe
 
 ![A common picture, I'm afraid](lion_post.png)
 
-## Where did we go wrong?
+## Have we gone the wrong way?
 
 In what part of scripture or the Christian walk are God’s people called "lions"? Where is the call in the gospel to take up arms, to rail against the government, or to look down on anyone as being a "sheep"? Scripture calls us to pray for our leaders. We are not to gossip about them or condemn them. 
 
