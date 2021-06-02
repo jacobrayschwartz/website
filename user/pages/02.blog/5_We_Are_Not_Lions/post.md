@@ -38,5 +38,7 @@ Oh Lord Jesus Christ, have mercy on us. We have acted so arrogantly. Draw us bac
 
 Lord Jesus Christ, have mercy on me, because I am a sinner. I see so little and have done so much harm. Redeem me and make me more like You. Let me speak the truth, life, hope, faith and love that you have taught me. Break my heart for what breaks Yours. 
 
+Sometime soon, I hope to have comments available for this site. I don't know everything. I probably know nothing. But I hope that these feeble words at very least point to Christ.
+
 ## Further Reading:
 <a id="f1" href="#f1">[1]</a> 2 Timothy 3:1-8 - <https://www.biblegateway.com/passage/?search=2%20Timothy%203:1-8&version=ESV>
