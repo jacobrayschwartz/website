@@ -8,7 +8,7 @@ date: 6/1/2021
 
 My goodness. 2020 was A YEAR. 2021 has shaped up to be a match, just half way in.
 
-There's a lot to unpack in the questions I've had over the past year. I had to leave a church who I loved; I've moved back to my home town of Spokane, WA. I've got more questions than answers these days.
+There's a lot to unpack in the questions I've had over the past year. The pandemic has claimed so many lives; either directly by illness or indirectly by the people who ended their lives being cut off from loved ones and so many more that we don't even know of. I had to leave a church who I loved; I've moved back to my home town of Spokane, WA. I've got more questions than answers these days.
 
 I can only hope and pray that I am being formed and shaped by God. I will seek truth, not what I want to feel. I will step out, even though I'm afraid for what others may think of me. 
 
