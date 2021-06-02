@@ -24,7 +24,7 @@ But today, my heart is troubled. Many people may have seen something to the effe
 
 ## Have we gone the wrong way?
 
-In what part of scripture or the Christian walk are God’s people called "lions"? Where is the call in the gospel to take up arms, to rail against the government, or to look down on anyone as being a "sheep"? Scripture calls us to pray for our leaders. We are not to gossip about them or condemn them. 
+In what part of scripture or the Christian walk are God’s people called "lions"? Where is the call in the gospel to take up arms, to rail against the government, or to look down on anyone as being a "sheep"? Scripture calls us to pray for our leaders. We are not to gossip about them or condemn them. We are called to love our neighbors in humility, not to despise them in our "superior knowledge" when we almost never see nor understand the whole picture ourselves. 
 
 The tragedy of 2020 continues in the church, in us: we are a soiled Bride, more concerned with how much she thinks she knows, how much better than others she thinks she is, than with actually showing others the all-encompassing love of Christ. We are blind and lame; we are crying out in pride, arrogance and terror at a world of God-Image-Bearers we were called instead to love. 
 
