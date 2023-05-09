@@ -17,6 +17,7 @@ title: Resume
 ## Work Experience
 
 ### Flexe Inc. - Senior Software Engineer
+##### June 2021 - Current
 * Developing software for shipping and logistics partners
 * Working with warehousers and copanies that want to ship and store goods to create a platform to support Omnichannel paths for goods. Allowing shippers like Target, Apex, Nike and more to get their goods out to retail stores and customers quckly while reducing warehouse costs. 
 * Full stack development, including mobile
@@ -24,7 +25,7 @@ title: Resume
 * Mentoring other Software Engineers
 
 ### Thermo Fisher Scientific - Software Engineer IV
-##### October, 2017 - 2021
+##### October, 2017 - June, 2021
 * Developing the new Instrument Health application for collecting useful health metrics of an instrument
 * Collaborating with other groups to build a cohesive platform and data standard for processing health metrics from various types of instruments 
 * Supporting and developing WPF applications, empowering the user to generate complex user workflows on the Mass Spectrometer
