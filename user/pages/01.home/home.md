@@ -10,7 +10,7 @@ content:
 
 I'm Jacob, I work for Thermo Fisher Scientific as a Software Engineer. This is my personal space to write about programming, cooking and just general life.
 
-Find me: <a rel="me" href="https://masto.jacobrayschwartz.com/@jaschwar">Mastodon</a> | <a rel="instagram" href="https://www.instagram.com/jacobrayschwartz/">
+Find me: <a rel="me" href="https://masto.jacobrayschwartz.com/@jaschwar">Mastodon</a> | <a rel="instagram" href="https://www.instagram.com/jacobrayschwartz/">Instagram</a>
 
 <hr/>
 
